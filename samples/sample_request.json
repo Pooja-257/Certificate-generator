@@ -1,0 +1,14 @@
+{
+  "certificate_title": "Certificate of Participation",
+  "event_name": "AI Workshop 2026",
+  "organization_name": "ABC Organization",
+  "issue_date": "2026-10-08",
+  "recipients": [
+    { "name": "John Doe",       "email": "john@example.com",   "course": "Artificial Intelligence" },
+    { "name": "Jane Smith",     "email": "jane@example.com",   "course": "Artificial Intelligence" },
+    { "name": "Priya Sharma",   "email": "priya@example.com",  "course": "Machine Learning" },
+    { "name": "José Müller",    "email": "jose@example.com",   "course": "Data Science" },
+    { "name": "Amira Hassan",   "email": "amira@example.com",  "course": "Artificial Intelligence" },
+    { "name": "李雷 (Li Lei)",  "email": "lilei@example.com",  "course": "Machine Learning" }
+  ]
+}

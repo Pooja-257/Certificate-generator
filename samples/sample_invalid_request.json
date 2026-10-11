@@ -1,0 +1,9 @@
+{
+  "certificate_title": "Certificate of Participation",
+  "event_name": "AI Workshop 2026",
+  "organization_name": "ABC Organization",
+  "issue_date": "2026-10-08",
+  "recipients": [
+    { "name": "John Doe", "email": "not-an-email", "course": "" }
+  ]
+}
